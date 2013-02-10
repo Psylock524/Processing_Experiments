@@ -7,7 +7,7 @@ Changes background color according to framerate.
 Controls
 ---------
 
-Escape - Exit application
-Up Arrow - Increase Framerate
-Down Arrow - Decrease Framerate
+Escape - Exit application  
+Up Arrow - Increase Framerate  
+Down Arrow - Decrease Framerate  
 Spacebar - Pause
