@@ -11,7 +11,7 @@
 
 boolean paused = false;
 int textSize = 32;
-float startingFrameRate = frameRate = 6;
+float startingFrameRate = frameRate = 4;
 
 void setup() {
   size(displayWidth, displayHeight);
